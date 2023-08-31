@@ -1,4 +1,5 @@
 ### Hi there 👋
+:man_technologist: :man_technologist: :man_technologist: I'm a medical image analysis researcher with an ideology of bringing computer-based technological advancements into healthcare. Via this small git, I hope to share with you my recent research outcomes, which is mainly related to CT image registration and super-resolution. I would be very happy if you could find anything from this git helpful to your research. 🌱🌱🌱    
 
 <!--
 **LocPham263/LocPham263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
